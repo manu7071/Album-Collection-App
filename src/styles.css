@@ -1,0 +1,29 @@
+/* src/styles.css */
+
+.album-card {
+    height: 100%; /* Set the desired height */
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+  
+  .album-card .card-body {
+    padding: 1rem;
+  }
+  
+  .album-card .card-title {
+    font-size: 1.2rem;
+    margin-bottom: 0.5rem;
+  }
+  
+  .album-card .card-text {
+    font-size: 1rem;
+  }
+.navbar-brand{
+    padding-left: 425px;
+   font-weight: bold;
+   font-size: larger;
+}  
+.container{
+  background: rgb(142, 129, 129);
+}
